@@ -1,6 +1,6 @@
 # phonegap-android-meteor-boilerplate
 
-simple template for using phonegap with meteor
+A simple template for using phonegap for Android with meteor.
 
 # License
 
